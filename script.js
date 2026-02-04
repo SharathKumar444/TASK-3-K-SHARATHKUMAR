@@ -239,9 +239,9 @@ for (let char of word) {
 
 //Code:
 let student = {
-  name: "Arun",
-  course: "MERN",
-  duration: "6 months"
+  name: "SHARATH",
+  course: "javascript",
+  duration: "3 months"
 };
 
 for (let key in student) {
